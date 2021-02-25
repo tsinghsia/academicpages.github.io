@@ -39,7 +39,7 @@ author_profile: true
     </li>
 </ul>
 
-You can also find my articles on [<a href="">my Google Scholar profile](https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en).
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
