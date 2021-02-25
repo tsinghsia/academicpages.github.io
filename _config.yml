@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Qing Xia"
 title_separator          : "-"
 name                     : &name "Qing Xia"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc @ RPI"
+url                      : https://tsinghsia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tsinghsia/tsinghsia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qing Xia"
   avatar           : "profile.png"
-  bio              : 
-  location         : 
+  bio              : "Postdoc @ RPI"
+  location         : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en"
