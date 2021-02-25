@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##Published
+## Published
 <ul> 
 	<li> 
 		Y. Epshteyn and <b>Q. Xia</b>, Difference potentials method for models with dynamic boundary conditions and bulk-surface problems, <em>Adv. Comput. Math.</em> 46, 67 (2020) [<a href="https://doi.org/10.1007/s10444-020-09798-8" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/1904.08362" target="_blank">arXiv:1904.08362</a>] 
@@ -39,7 +39,7 @@ author_profile: true
     </li>
 </ul>
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
