@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# University of Utah
 ## Instructor
 <ul>
 	<li>Math 2280: Introduction to Differential Equations -- Summer 2018</li>
@@ -21,9 +22,3 @@ author_profile: true
 	<li>Math 1320: Engineering Calculus II -- Spring 2014</li>
 	<li>Math 2250: Differential Equations and Linear Algebra -- Fall 2013, Fall 2014, Fall 2016</li>
 </ul>
-
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
