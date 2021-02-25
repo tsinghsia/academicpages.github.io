@@ -1,24 +1,21 @@
 ---
 layout: archive
 title: "Bio"
-permalink: /cv/
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
 * B.S., Central University of Finance and Economics, 2012
 * Ph.D, University of Utah, 2019
 
-Work experience
-======
+## Work experience
 * Postdoctoral Research Associate
   * Rensselaer Polytechnic Institute
   
-Skills
-======
+## Skills
 * Language
   * Chinese
   * English

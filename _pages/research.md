@@ -5,5 +5,5 @@ permalink: /research/
 author_profile: true
 ---
 
-# Difference Potentials Method
-# Under construction
+## Difference Potentials Method
+## Under construction
