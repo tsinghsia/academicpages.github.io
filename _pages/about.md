@@ -12,6 +12,16 @@ redirect_from:
 
 I am a postdoctoral research associate at Department of Mathematical Sciences at Rensselaer Polytechnic Institute (RPI), working with Prof. [Jeff Banks](http://homepages.rpi.edu/~banksj3/), Prof. [Gregor Kovacic](http://homepages.rpi.edu/~kovacg/), Prof. [Bill Henshaw](http://homepages.rpi.edu/~henshw/) and Prof. [Donald Schwendeman](https://homepages.rpi.edu/~schwed/). Before coming to RPI, I completed my PhD's degree in Mathematics under the supervision of Prof. [Yekaterina Epshteyn](https://www.math.utah.edu/~epshteyn/) at the University of Utah, and my Bachelor's degree in Applied Mathematics at Central University of Finance and Economics in Beijing.
 
+Research Interests
+======
+* High-order accurate numerical methods for PDEs in complex geometry
+* Computational nanophotonics
+* Difference potentials method
+* Bulk-surface coupling problems
+* Free boundary problems
+* Adaptive and highly scalable parallel numerical algorithms
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
