@@ -38,15 +38,3 @@ author_profile: true
     <li><b>Q. Xia</b>, L. J. Prokopeva, J. W. Banks, W. D. Henshaw, G. Kovacic, D. W. Schwendeman and A. V. Kildishev, Advancing Computational Nanophotonics. Part 1. Temporal Multiscale (TMS) Analysis of Nonlinear Material Models with Carrier Kinetics
     </li>
 </ul>
-
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=-20OVv4AAAAJ&hl=en).
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
-<!-- {% include base_path %} -->
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
